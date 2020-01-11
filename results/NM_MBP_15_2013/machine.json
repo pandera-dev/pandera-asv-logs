@@ -1,0 +1,9 @@
+{
+    "arch": "x86_64",
+    "cpu": "Intel(R) Core(TM) i7-4850HQ CPU @ 2.30GHz",
+    "machine": "NM_MBP_15_2013",
+    "num_cpu": "8",
+    "os": "Darwin 19.2.0",
+    "ram": "17179869184",
+    "version": 1
+}
