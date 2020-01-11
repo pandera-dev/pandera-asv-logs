@@ -9,11 +9,15 @@
 # Environments
 .env
 .venv
-env/
+env/s
 venv/
 ENV/
 env.bak/
 venv.bak/
+
+# html
+html
+html/
 
 # Spyder project settings
 .spyderproject
